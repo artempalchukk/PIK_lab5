@@ -4,7 +4,7 @@
 
 ## Демонстрація
 
-![Dashboard Preview](https://i.imgur.com/placeholder.png)
+
 
 ## Технології
 
